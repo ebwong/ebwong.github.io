@@ -1,0 +1,22 @@
+{
+  "name": "ebwong-portfolio",
+  "version": "1.0.0",
+  "description": "Personal professional portfolio website for Eric Wong",
+  "private": true,
+  "scripts": {
+    "start": "npx serve .",
+    "build": "echo 'Static site — no build step required.'"
+  },
+  "devDependencies": {
+    "serve": "^14.2.4"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "portfolio",
+    "github-pages"
+  ],
+  "author": "ebwong",
+  "license": "UNLICENSED"
+}
